@@ -1,0 +1,2 @@
+Python Script for miRNA profile data analysis relevant to research manuscript "Circulating MicroRNA Signatures Reveal Core and Reversible Dysregulations in Obesity via Machine Learning".
+Data reading, preprocessing, feature selection, classification are conducted in script "miRNA_FeatureSelection_etc.ipynb"; Subsequent analysis on important miRNA features are conducted in script "Key_miRNA_Analysis.ipynb"
